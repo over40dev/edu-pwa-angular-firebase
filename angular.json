@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "LaunchPad-PWA"
+    }
+  },
+  "defaultProject": "LaunchPad-PWA",
+  "cli": {
+    "analytics": "02aa402e-eefd-4aef-8941-520a19aef783"
+  }
 }
